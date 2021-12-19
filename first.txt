@@ -1,2 +1,2 @@
 １２・１９の書き込み
-git push -u origin mainが出来ない
+git push -u origin mainが出来ない 続き
