@@ -1,1 +1,2 @@
-Gitの練習をしていきます。
+１２・１９の書き込み
+git push -u origin mainが出来ない
