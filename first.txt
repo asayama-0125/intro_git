@@ -1,4 +1,4 @@
 １２・１９の書き込み
 git push -u origin mainが出来ない 続き
 git push 続きする　１２・
-git pusu 12 23
+git pusu 12 23 続き
